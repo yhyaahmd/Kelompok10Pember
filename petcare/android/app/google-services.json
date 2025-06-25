@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "460220021640",
+    "firebase_url": "https://api-yahahmd-default-rtdb.firebaseio.com",
+    "project_id": "api-yahahmd",
+    "storage_bucket": "api-yahahmd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460220021640:android:b5290ca270f604a01f583d",
+        "android_client_info": {
+          "package_name": "com.example.mod4ok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMsLRm-AjIpGi9FRVVheXUkkk3vb5HS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460220021640:android:46e322fb9527464b1f583d",
+        "android_client_info": {
+          "package_name": "com.example.petcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMsLRm-AjIpGi9FRVVheXUkkk3vb5HS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
